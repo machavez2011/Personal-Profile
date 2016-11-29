@@ -1,0 +1,69 @@
+<!doctype html>
+
+<html>
+
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+        <link rel="stylesheet" type="text/css" href="Home.css">
+        <title> Michael's Coding Profile - Home</title>
+        <link href="https://fonts.googleapis.com/css?family=Trirong" rel="stylesheet">
+    </head>
+
+<body>
+    
+    <nav>
+        <ul>
+            <li><span class="Home">HOME</span></li> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <li><a href="Portfolio.html">PORTFOLIO</a></li> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <li><a href="Resume.html">RESUME</a></li> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        </ul>
+    </nav>
+    
+    <img src= "Pictures/DSC_0669%20(2).JPG" alt="Cambria" class="resize" class="img-responsive">
+    
+    <h1 align="left">
+    Michael Chavez    
+    </h1>
+    
+    <p style="top: 100px;">
+    Hello! Thank you for taking the time to visit my site. My name is Michael Chavez and I am a business manager, photographer, and aspiring web developer. I have created this web page as a way to showcase some of the work I have done and to give you a better look into my life up to this point.
+    </p>
+    
+    <p style="top: 258px;">
+    Currently, I am a Manager at    
+    <a href="http://www.prodogwalkingservice.com/" id="PDWS" target="_blank">
+    Professional Dog Walking Service,
+    </a>
+    where I am responsible for managing employee payroll, client invoicing, maintaing the website, and of course... walking dogs. But really? I help manage a group of walkers who provide dogs that would normally be cooped up at home all day, a way to release energy and do their business so that they are happy before their owners come home from work.
+    </p>
+    
+    <p style="top: 475px;">
+    I recently stumbled upon web development when helping to maintain the website at Professional Dog Walking Service and quickly realized that I really enjoy coding. I hope to one day be able to combine this skill set with my love of photograhy to make beautiful webistes for many people to enjoy. I welcome you to continue browsing through my website to see what I have to offer.
+    </p>
+    
+    <div id="Icons">
+    <a href="https://www.linkedin.com/in/michael-chavez-a035453a?trk=nav_responsive_tab_profile" target="_blank">
+    <img id="LinkedInIcon" src="Pictures/LinkedIn-icon.png" alt="Facebook Icon">
+    </a>
+        
+    <a href="https://github.com/machavez2011" target="_blank">
+    <img id="GithubIcon" src="Pictures/Github-icon.png" alt="Github Icon">
+    </a>
+    
+    <a href="https://www.facebook.com/prodogwalkingservice/?pnref=about.overview" target="_blank">
+    <img id="FacebookIcon" src="Pictures/Facebook-icon.png" alt="Facebook Icon">
+    </a>
+        
+    <a href="https://twitter.com/MichaelChavez90" target="_blank">
+    <img id="TwitterIcon" src="Pictures/Twitter-icon.png" alt="Twitter Icon">
+    </a> 
+    
+    <a href="mailto:machavez2011@gmail.com" target="_blank">
+    <img id="GmailIcon" src="Pictures/Gmail-icon.png" alt="GMail Icon">
+    </a>
+    </div>
+            
+</body>
+
+</html>
