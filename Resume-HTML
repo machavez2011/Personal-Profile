@@ -1,0 +1,196 @@
+<!doctype html>
+
+<html>    
+    
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Resume.css">
+    <title>Michael's Coding Profile - Resume</title>
+</head>
+
+<body>
+
+    <nav>
+        <div id="Navigation">
+        <ul>
+            <li><a href="Home.html"><span style="font-size:15px">HOME</span></a></li> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <li><a href="Portfolio.html"><span style="font-size:15px">PORTFOLIO</span></a></li> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <li><span style="font-size:15px">RESUME</span></li> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        </ul>
+        </div>
+    </nav>
+    
+    <h1 align="center">
+    MICHAEL CHAVEZ    
+    </h1>
+    
+    <h3 align="center">
+    Norwalk, CA &#8226 562-972-5383 &#8226 
+        <a href="mailto:machavez2011@gmail.com" target="_blank" style="font-weight:normal; color:darkblue;">machavez2011@gmail.com</a>
+    </h3>
+    
+    <h4 align="center">
+    Downloadable version available <a href="Resume%20of%20Michael%20Chavez.docx" style="color:firebrick;
+    font-weight: bold;">HERE</a>
+    </h4>
+
+<div id="Margin">
+    <h2>
+    PROFILE:
+    </h2>
+    
+    <hr>
+    
+    <p style="font-size:20px">
+    Program Coordinator with over 3 years of experience in managing client's accounts. Strong customer service, management, and communication skills. Detail oriented, organized, and the ability to multi-task in a fast paced environment.
+    </p>
+    
+    <h2>
+    EDUCATION:
+    </h2>
+    
+    <hr>
+    
+    <p>
+    <b>University of California, Los Angeles</b>
+        <br>
+    <i>Bachelor of Arts in Anthropology, June 2011</i>
+        <ul>
+            <li>Cumulative GPA: 3.3</li>
+        </ul>
+
+    </p>
+    
+    <h2>
+    PROFESSIONAL EXPERIENCE:
+    </h2>
+    
+    <hr>
+    
+    <p>
+    <b>
+    Professional Dog Walking Service	       			     <span style="float:right">Whittier, California</span>
+    </b>        
+            <br>
+    <i>
+    Manager									   
+    <span style="float:right">March 2016 - Present</span>	
+    </i>
+    <ul>
+        <li>Manage the invoicing of clients and employee payroll</li>
+        <li>Walk dogs and help with maintaining their health</li>
+        <li>Make sure customers are up to date with daily report cards</li>
+        <li>Assist with marketing to bring in new clients</li>
+        <li>In charge of filing insurance documents and customer information</li>
+    </ul>
+
+    <b>
+    SQA Services						          
+    <span style="float:right">Palos Verdes, California</span>
+    </b>        
+            <br>
+    <i>
+    Senior Program Coordinator  (Aug '14 - Mar '16)		   
+    <span style="float:right">July 2012 - March 2016</span>
+    </i>
+    <ul>
+        <li>Fully managed several accounts for customers in the quality industry including Bayer, Pfizer, and GE Oil & Gas</li>
+        <li>Involved in the training process for several internal employees</li>
+        <li>Contributed to forecasting the company growth for various clients</li>
+        <li>Provided clients with billing quote for the scope of work on potential projects</li>
+        <li>Negotiated pay rates with auditors on upcoming events</li>
+        <li>Consulted with clients on a weekly basis on strategies to reach their quality goals and deadlines</li>
+        <li>Met face to face with new and prospective clients to promote the company and its services</li>
+        <li>In charge of facilitating a bi-weekly departmental meeting to discuss methods on increasing efficiency and improving the company</li>
+        <li>Established Purchase Orders up to $500,000 with existing clients</li>
+    </ul>
+    	 							          
+		                          
+    <i>Program Coordinator (Jun '13 - Aug '14)</i>
+    <ul>
+        <li>Worked closely with clients on audit scheduling, details, and scoping information</li>
+        <li>Communicated directly with clients’ suppliers for audit planning</li>
+        <li>Prepared every auditor and inspector for each event they performed</li>
+        <li>Managed dozens of auditors all across the globe on audit, inspection, and consulting activities</li>
+        <li>Responsible for the scheduling of more than 200 audits on an annual basis</li>
+        <li>Discussed with clients the supply chain management with their suppliers</li>
+    </ul>
+    
+    <i>Operations Associate (Jul '12 - Jun '13)</i>
+    <ul>
+        <li>Contacted auditors for availability to perform various assignments</li>
+        <li>Performed data entry tasks to keep accurate accounts of auditing activities</li>
+        <li>Awarded employee of the month</li>
+    </ul>	
+
+    <b>
+    College Works Painting						         	      <span style="float:right">Irvine, California</span>
+    </b>
+        <br>
+    <i>
+    Branch Manager
+    <span style="float:right">February 2011 - October 2011</span></i>	
+    <ul>
+        <li>Managed 10 workers in 5 separate painting crews</li>
+        <li>Ran a $50,000 business</li>
+        <li>Oversaw the production involving the homes of 25 clients</li>
+        <li>Coordinated the daily schedules of all employees in order to meet deadlines</li>
+        <li>Managed marketing sessions to find new clients</li>
+        <li>Established myself as a top 5 intern in my division</li>
+    </ul>
+
+    <b>
+    UCLA Cotsen Institute of Archaeology		 			     <span style="float:right">Lyminge, Kent, UK</span>
+    </b>
+        <br>
+    <i>
+    Archaeologist 								  
+    <span style="float:right">August 2010 - September 2010</span>
+    </i>
+    <ul>
+        <li>Worked to unearth the remains of an Anglo Saxon Village</li>
+        <li>Used several forms of excavation to find artifacts</li>
+        <li>Performed different forms of sorting and analysis on discovered artifacts</li>
+        <li>Discovered a plough coulter that featured prominently in a British archaeology magazine</li>
+    </ul>
+
+    <b>
+    Starbucks									    
+    <span style="float:right">Norwalk, California</span>
+    </b>
+        <br>
+    <i>
+    Barista 									           
+    <span style="float:right">May 2008 - August 2009</span>
+    </i>
+    <ul>
+        <li>Helped increase the overall sales and production efficiency of the store</li>
+        <li>Awarded the "Mug" award for high quality customer service</li>
+        <li>Upheld strict sanitation and health codes</li>
+    </ul>
+    </p>
+    
+    <h2>
+    ADDITIONAL SKILLS:
+    </h2>
+    
+    <hr>
+    
+    <p>
+    <ul>
+        <li>Html, Java script, and CSS</li>
+        <li>Experience with Microsoft Office - Word, Excel, and Outlook</li>
+        <li>Familiar with several pharmaceutical quality regulations including GMP, ISO 9001, IPEC, and ICH Q7</li>
+        <li>Capable of running web based presentations through WebEx and join.me</li>
+        <li>Proficient in the software systems STEPQ and Bond</li>
+    </ul>
+    </p>
+
+        <Br>
+    <p align="center"><i>References available upon request</i></p>
+   
+</div>
+
+</body>    
+
+</html>
