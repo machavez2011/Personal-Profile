@@ -1,0 +1,107 @@
+img.resize{
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+    
+h1 {
+    position: absolute; 
+    top: -30px; 
+    left: 300px; 
+    font-size: 60px;
+    font-family:'Trirong', serif;
+    color: #605758;
+}
+
+
+
+p {
+    color: #B7FDFF;
+    font-size: 25px;
+    position: absolute;
+    right: 350px;
+    left: 40px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: transparent;
+    background: rgba(0,0,0,.55);
+    line-height: 125%;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Trirong', serif;
+}
+    
+nav {
+    position: absolute;
+    top:20px;
+    right: 0;
+    margin-right: 15px;
+    z-index: 100;
+    font-family: 'Trirong', serif;
+    font-size: 15px;
+}
+   
+ul {
+    list-style-type: none;
+}
+    
+li {
+    display: inline;
+    color: #605758;
+}
+
+li:hover {
+    opacity: .5;
+}
+    
+a {
+    text-decoration: none;
+    color:#605758;
+}
+
+#LinkedInIcon {
+    width: 60px;
+    margin-left: 250px;
+}
+
+#GithubIcon {
+    width: 60px;
+    margin-left: 350px;
+}
+
+#FacebookIcon {
+    width: 60px;
+    margin-left: 450px;
+}
+
+#TwitterIcon {
+    width: 63px;
+    margin-bottom: -2px;
+    margin-left: 550px;
+}
+    
+#GmailIcon {
+    width: 82px;
+    margin-left: 650px;
+    margin-top: -10px;
+}
+
+#Icons img {
+    opacity: 1;
+    position: absolute;
+    top: 695px;
+}
+
+#Icons img:hover {
+    opacity: .5;
+}
+
+#PDWS {
+    text-decoration: underline;
+    color: #8AAD75;
+}
