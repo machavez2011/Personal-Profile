@@ -1,0 +1,63 @@
+<!doctypehtml>
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Portfolio.css">
+    <title>Michael's Coding Profile - Portfolio</title>    
+</head>
+
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="Home.html">HOME</a></li> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <li>PORTFOLIO</li> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <li><a href="Resume.html">RESUME</a></li> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        </ul>
+    </nav>
+    
+    <h1 align="center">
+    Photography
+    </h1>
+     
+    <img src="Pictures/Sequoia/DSC_0639.JPG" alt="Sequoia" class="Sequoia">
+    
+    <h2 class="SequoiaHeader">
+    Sequoia
+    </h2>
+    
+    <img src="Pictures/Yosemite/DSC_0004%20(2).jpg" alt="Yosemite" class="Yosemite">
+    
+    <h2 class="YosemiteHeader">
+    Yosemite
+    </h2>
+    
+    <img src="Pictures/Cambria/DSC_0671.JPG" alt="Cambria" class="Cambria">
+    
+    <h2 class="CambriaHeader">
+    Cambria
+    </h2>
+    
+    <img src="Pictures/Death Valley/DSC_0691.JPG" alt="Death Valley" class="DeathValley">
+    
+    <h2 class="DeathValleyHeader">
+    Death Valley
+    </h2>
+    
+    <img src="Pictures/Grand Canyon/DSC_0325.JPG" alt="Grand Canyon" class="GrandCanyon">
+    
+    <h2 class="GrandCanyonHeader">
+    Grand Canyon
+    </h2>
+    
+    <img src="Pictures/Huntington Library/DSC_0003.JPG" alt="Huntington Library" class="HuntingtonLibrary">
+    
+    <h2 class="HuntingtonLibraryHeader">
+    Huntington Library
+    </h2>
+        
+</body>
+
+</html>
