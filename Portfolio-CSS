@@ -1,0 +1,165 @@
+body {
+    background-color: #ffffe1;
+}
+
+nav {
+    background: transparent;
+    position: absolute;
+    top:20px;
+    right: 0;
+    margin-right: 15px;
+    z-index: 100;#ffffd6
+    font-family: serif;
+    color: black;
+    font-size: 15px;
+}
+
+ul {
+    list-style-type: none;
+}
+    
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.Sequoia {
+    width: 400px;
+    position: absolute;
+    z-index: 1;
+    left: 40px;
+}
+
+.Sequoia:hover {
+    opacity: .3;
+}
+
+.SequoiaHeader {
+    position:absolute;
+    left: 130px;
+    top: 350px;
+    font-size: 50px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 15px;
+}
+
+.Yosemite {
+    width: 400px;
+    position: absolute;
+    z-index: 1;
+    left: 480px;
+}
+
+.Yosemite:hover {
+    opacity: .3;
+}
+
+.YosemiteHeader {
+    position:absolute;
+    left: 565px;
+    top: 350px;
+    font-size: 50px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 15px;
+}
+
+.Cambria {
+    width: 400px;
+    position: absolute;
+    z-index: 1;
+    left: 920px;
+}
+
+.Cambria:hover {
+    opacity: .3;
+}
+
+.CambriaHeader {
+    position:absolute;
+    left: 1000px;
+    top: 350px;
+    font-size: 50px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 15px;
+}
+
+.DeathValley {
+    width: 400px;
+    position: absolute;
+    z-index: 1;
+    left: 40px;
+    top:790px;
+    margin-bottom: 40px;
+}
+
+.DeathValley:hover {
+    opacity: .3;
+}
+
+.DeathValleyHeader {
+    position:absolute;
+    left: 85px;
+    top: 1000px;
+    font-size: 50px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 15px;
+}
+
+.GrandCanyon {
+    width: 400px;
+    position: absolute;
+    z-index: 1;
+    left: 480px;
+    top:790px;
+    margin-bottom: 40px;
+}
+
+.GrandCanyon:hover {
+    opacity: .3;
+}
+
+.GrandCanyonHeader {
+    position:absolute;
+    left: 500px;
+    top: 1000px;
+    font-size: 50px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 15px;
+}
+
+.HuntingtonLibrary {
+    width: 400px;
+    position: absolute;
+    z-index: 1;
+    left: 920px;
+    top:790px;
+    margin-bottom: 40px;
+}
+
+.HuntingtonLibrary:hover {
+    opacity: .3;
+}
+
+.HuntingtonLibraryHeader {
+    position:absolute;
+    left: 975px;
+    right:85px;
+    top: 1000px;
+    font-size: 50px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 15px;
+}
